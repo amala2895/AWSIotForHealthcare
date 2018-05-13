@@ -1,3 +1,4 @@
+#Script to alert the user when BP is not normal  
 
 import boto3
 import json
