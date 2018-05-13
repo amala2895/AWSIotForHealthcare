@@ -1,3 +1,4 @@
+#Script to check health of device and sends alert message to the user if device is not working 
 
 import boto3
 import json
