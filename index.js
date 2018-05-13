@@ -1,3 +1,5 @@
+//To send data to the API Gateway 
+
 'use strict';
 console.log('Loading function');
 let response = require('cfn-response');
