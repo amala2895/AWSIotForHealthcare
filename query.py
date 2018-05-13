@@ -1,3 +1,5 @@
+#Script to query the API and save the data into a CSV format 
+
 import csv
 import json
 import requests
