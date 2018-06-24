@@ -9,6 +9,7 @@ alert.py - This is lambda script to alert the user if blood pressure is not in t
 checkstatus.py- This is a lamnda script to check health of device and sends alert message to the user if device is not working. This script is scheduled to run every 10 hours.
 
 index.js - Script to make data available at API Gateway 
+
 query.py - Script to query the API and save the data into a CSV format 
 
 
